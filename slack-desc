@@ -1,0 +1,11 @@
+pexpect: Pexpect (Pure Python Expect-like module)
+pexpect:
+pexpect: Pexpect is a Python module for spawning child applications;
+pexpect: controlling them; and responding to expected patterns in their
+pexpect: output.  Pexpect can be used for automating interactive
+pexpect: applications such as ssh, ftp, passwd, telnet, etc.
+pexpect: Pexpect is pure Python. 
+pexpect:
+pexpect:
+pexpect:
+pexpect: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
